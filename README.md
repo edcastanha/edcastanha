@@ -1,6 +1,12 @@
 # Salve! Espero que estejas bem!  👋
 
-- 🔭 Atualmente focado e usando: PHP - JS - Mysql TypeScript
+- 🔭 Atualmente focado e usando:
+-  <img src='https://icongr.am/devicon/javascript-original.svg?size=80&color=cb2a2a'/>
+  <img src='https://icongr.am/devicon/nodejs-original.svg?size=80&color=cb2a2'/>
+  <img src='https://icongr.am/devicon/php-original.svg?size=80&color=cb2a2a'/>
+  <img src='https://icongr.am/devicon/python-original.svg?size=80&color=cb2a2a'/>
+  <img src='https://icongr.am/devicon/typescript-original.svg?size=80&color=cb2a2a'/>
+
 - ⚡ Curiosidades: Adoro fazer as coisas mais diversas e aleatória ao desligar o modo Code (DIY)
 ##
 
@@ -9,15 +15,9 @@
 ## 
 
 <div align="center">
-  <img src='https://icongr.am/devicon/javascript-original.svg?size=80&color=cb2a2a'/>
-  <img src='https://icongr.am/devicon/nodejs-original.svg?size=80&color=cb2a2'/>
-  <img src='https://icongr.am/devicon/php-original.svg?size=80&color=cb2a2a'/>
-  <img src='https://icongr.am/devicon/python-original.svg?size=80&color=cb2a2a'/>
-  <img src='https://icongr.am/devicon/typescript-original.svg?size=80&color=cb2a2a'/>
-
 
   <br><a href="https://www.youtube.com/channel/UC05zrbvIXAWTlP0kwGNvERg" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/edlourenzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/edlourenzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ## 
