@@ -2,9 +2,11 @@
 
 - 🔭 Atualmente focado e usando: PHP - JS - Mysql TypeScript
 - ⚡ Curiosidades: Adoro fazer as coisas mais diversas e aleatória ao desligar o modo Code (DIY)
+##
 
- ![Snake animation](https://github.com/edcastanha/edcastanha/blob/output/github-contribution-grid-snake.svg)
- 
+![github snake animation](https://raw.githubusercontent.com/edcastanha/edcastanha/output/github-contribution-grid-snake.svg)
+
+## 
  
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=edcastanha&repo=edcastanha&theme=react)](https://github.com/edcastanha/edcastanha)
 
