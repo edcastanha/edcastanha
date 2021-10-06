@@ -6,7 +6,16 @@
 ![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ## 
-https://starchart.cc/{edcastanha}/{Site-Vanilha}.svg
+
+<div>
+  <img src='https://icongr.am/devicon/javascript-original.svg?size=80&color=cb2a2a'/>
+  <img src='https://icongr.am/devicon/nodejs-original.svg?size=80&color=cb2a2'/>
+  <img src='https://icongr.am/devicon/php-original.svg?size=80&color=cb2a2a'/>
+  <img src='https://icongr.am/devicon/python-original.svg?size=80&color=cb2a2a'/>
+  <img src='https://icongr.am/devicon/typescript-original.svg?size=80&color=cb2a2a'/>
+
+
+</div>
 ## 
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=edcastanha&repo=edcastanha&theme=react)](https://github.com/edcastanha/edcastanha)
