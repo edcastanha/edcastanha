@@ -1,13 +1,15 @@
 # Salve! Espero que estejas bem!  👋
 
-- 🔭 Atualmente focado e usando:
--  <img src='https://icongr.am/devicon/javascript-original.svg?size=80&color=cb2a2a'/>
+### - 🔭 Atualmente focado e usando:
+<div align="center">
+  <img src='https://icongr.am/devicon/javascript-original.svg?size=80&color=cb2a2a'/>
   <img src='https://icongr.am/devicon/nodejs-original.svg?size=80&color=cb2a2'/>
   <img src='https://icongr.am/devicon/php-original.svg?size=80&color=cb2a2a'/>
   <img src='https://icongr.am/devicon/python-original.svg?size=80&color=cb2a2a'/>
   <img src='https://icongr.am/devicon/typescript-original.svg?size=80&color=cb2a2a'/>
-
-- ⚡ Curiosidades: Adoro fazer as coisas mais diversas e aleatória ao desligar o modo Code (DIY)
+ </div>
+<br>
+### - ⚡ Curiosidades: Adoro fazer as coisas mais diversas e aleatória ao desligar o modo Code (DIY)
 ##
 
 ![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
@@ -30,6 +32,8 @@
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edcastanha&layout=compact&langs_count=7&theme=react&locale=pt-br" />
 </div>
  <br>
+  
+### - Os estudos:
 <div  align="center"> 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
