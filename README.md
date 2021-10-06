@@ -2,18 +2,21 @@
 
 ### - 🔭 Atualmente focado e usando:
 <div align="center">
-  <img src='https://icongr.am/devicon/javascript-original.svg?size=80&color=cb2a2a'/>
-  <img src='https://icongr.am/devicon/nodejs-original.svg?size=80&color=cb2a2'/>
-  <img src='https://icongr.am/devicon/php-original.svg?size=80&color=cb2a2a'/>
-  <img src='https://icongr.am/devicon/python-original.svg?size=80&color=cb2a2a'/>
-  <img src='https://icongr.am/devicon/typescript-original.svg?size=80&color=cb2a2a'/>
+  <img src='https://icongr.am/devicon/javascript-original.svg?size=60&color=cb2a2a'/>
+  <img src='https://icongr.am/devicon/nodejs-original.svg?size=60&color=cb2a2'/>
+  <img src='https://icongr.am/devicon/php-original.svg?size=60&color=cb2a2a'/>
+  <img src='https://icongr.am/devicon/python-original.svg?size=60&color=cb2a2a'/>
+  <img src='https://icongr.am/devicon/typescript-original.svg?size=60&color=cb2a2a'/>
  </div>
 <br>
 ### - ⚡ Curiosidades: Adoro fazer as coisas mais diversas e aleatória ao desligar o modo Code (DIY)
+
 ##
 
 ![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
+<diV align="center">
+![Snake](https://raw.githubusercontent.com/edcastanha/edcastanha/blob/output/github-contribution-grid-snake.svg) 
+</div>
 ## 
 
 <div align="center">
@@ -44,7 +47,5 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <br>
 </div>
- <diV>
-  ![Snake animation](https://github.com/edcastanha/edcastanha/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+ ##
+
