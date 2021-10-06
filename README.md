@@ -3,8 +3,7 @@
 - 🔭 Atualmente focado e usando: PHP - JS - Mysql TypeScript
 - ⚡ Curiosidades: Adoro fazer as coisas mais diversas e aleatória ao desligar o modo Code (DIY)
 ##
-
-![github snake animation](https://raw.githubusercontent.com/edcastanha/edcastanha/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ## 
  
@@ -19,5 +18,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edcastanha&repo=devkut)](https://github.com/edcastanha/devkut)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edcastanha&repo=Site-Vanilha)](https://github.com/edcastanha/Site-Vanilha)
+![github snake animation](https://raw.githubusercontent.com/edcastanha/edcastanha/output/github-contribution-grid-snake.svg)
+
 
 
