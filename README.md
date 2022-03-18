@@ -15,14 +15,26 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=edcastanha&theme=oldie&row=1)](https://github.com/edcastanha)
 
 
-<a align="center" alt="Perfil no Linkedins" height="60" width="40" href="https://www.linkedin.com/in/edlourenzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a align="center" alt="Perfil no Linkedin" height="60" width="40" href="https://www.linkedin.com/in/edlourenzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
+  
 </div>
 <br>
 
 <br>
 
 <h2>⚡ Curiosidades: </h2>
-<a align="center" alt="Canal no Youtube" height="30" width="60" href="https://www.youtube.com/channel/UC05zrbvIXAWTlP0kwGNvERg" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">  - Veja mais ...</a> Adoro fazer as coisas mais diversas e aleatória ao desligar o modo Code (DIY)
+<a align="center" alt="Canal no Youtube" height="30" width="60" href="https://www.youtube.com/channel/UC05zrbvIXAWTlP0kwGNvERg" target="_blank">
+  <img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">  - Veja mais ...
+</a>
+<br/>
+
+<a align="center" alt="Perfil da ITS3" height="40" width="70" href="https://www.instagram.com/its3.br" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=Instagram&logoColor=ff69b4" target="_blank">  - Confira algumas postagem sobre o projeto ...</a> 
+
+
+Adoro fazer as coisas mais diversas e aleatória ao desligar o modo Code (DIY)
 
 
 <div align="center"><h2>ATIVIDADES</h2></div>
