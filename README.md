@@ -33,15 +33,6 @@
 <a align="center" alt="Perfil da ITS3" height="40" width="70" href="https://www.instagram.com/its3.br" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=Instagram&logoColor=ff69b4" target="_blank">  - Confira algumas postagem sobre o projeto ...</a> 
 
-
-Adoro fazer as coisas mais diversas e aleatória ao desligar o modo Code (DIY)
-
-
-<div align="center"><h2>ATIVIDADES</h2></div>
-
-![Snake](https://raw.githubusercontent.com/edcastanha/edcastanha/output/github-contribution-grid-snake.svg)
-
-<br>
 ESTUDOS:
 <div  align="center"> 
 <a href="https://github.com/edcastanha">
