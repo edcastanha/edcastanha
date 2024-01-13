@@ -30,14 +30,6 @@
 </a>
 <br/>
 
-<a align="center" alt="Perfil da ITS3" height="40" width="70" href="https://www.instagram.com/its3.br" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=Instagram&logoColor=ff69b4" target="_blank">  - Confira algumas postagem sobre o projeto ...</a> 
-
-ESTUDOS:
-<div  align="center"> 
-<a href="https://github.com/edcastanha">
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edcastanha&layout=compact&langs_count=7&theme=react&locale=pt-br" />
-</a>
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
