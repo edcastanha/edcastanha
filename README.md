@@ -12,9 +12,6 @@
   <img src='https://icongr.am/devicon/csharp-original.svg?size=40&color=ab2a2a' />
 
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=edcastanha&theme=oldie&row=1)](https://github.com/edcastanha)
-
-
 <a align="center" alt="Perfil no Linkedin" height="60" width="40" href="https://www.linkedin.com/in/edlourenzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
